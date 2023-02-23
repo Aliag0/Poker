@@ -1,0 +1,16 @@
+﻿POKER
+
+
+
+
+Ce projet a pour but de pouvoir jouer au poker en utilisant (la console), le programme a été fait en python.
+
+
+Pour lancer une partie, il faut se rendre sur le fichier “Poker.py".
+Suite a cela il vous sera demander quel mode vous voulez lancer: 1) Le mode multijoueur, qui permet à plusieurs joueur de faire une partie de poker sur le même ordinateur. 2) Le mode solo qui permet de jouer seul contre des bots.
+
+
+Vous pourrez enregistrer les noms des joueurs, et en début de partie et il sera attribué à chaque joueur une somme de 1000€ (évidemment fictifs évidemment). Les joueurs feront ensuite leur choix, ne rien faire (check), se coucher (sleep), miser une somme d'argent, ou suivre (follow) si une mise à été faite en amont. Cependant la relance n'est pas possible.
+
+
+Une fois les 5 cartes communes dévoilé et les choix des joueurs fait, parmi les joueurs restants le programme va calculer qui a la meilleur main, et le gagnant remporte le totale de l'argent misé lors de la partie.
